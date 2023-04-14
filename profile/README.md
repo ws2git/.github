@@ -28,4 +28,14 @@ Dive into the insightful documentation provided by Bitbucket, GitHub, and GitLab
 
 
 ## :books: Books
+
 + [Pro Git](https://git-scm.com/book/pt-br/v2)
+
+
+## :memo: Awesome lists
+
++ [awesome-git](https://github.com/dictcp/awesome-git)
++ [awesome-git-addons](https://github.com/stevemao/awesome-git-addons)
++ [awesome-gitops](https://github.com/weaveworks/awesome-gitops)
++ [awesome-git-hooks](https://github.com/aitemr/awesome-git-hooks)
++ [awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks)
